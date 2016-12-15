@@ -172,7 +172,7 @@ Additional recommendations:
 
 If modifying code that is described by an existing comment, update the comment such that it accurately reflects the new code. (Ideally, improve the code to obviate the need for the comment, and delete the comment entirely.)
 
-The first word of the comment should be capitalized, unless the first word is an identifier that begins with a lower-case letter.
+The first word of the comment should be capitalized, unless the first word is an identifier that begins with a lower-case letter. There should always be a space between the octothorpe and the first word.
 
 If a comment is short, the period at the end can be omitted.
 
